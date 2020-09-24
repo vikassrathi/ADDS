@@ -1,0 +1,381 @@
+html, body {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.body-container{
+ position: static;
+  
+  padding: 2% 4%; 
+ 
+
+ } 
+ .navigation1{
+   width: auto;
+ }
+
+.navigation{
+  position: fixed;
+}
+.about{
+ width: 350px;
+ text-align:justify;
+
+}
+.body-margin{
+  margin-left: 11.5rem;
+}
+.img-box{
+  margin-top: -320px;
+  margin-left: 350px;
+ 
+
+}
+
+.text-box{
+ 
+ text-align: left;
+ font: normal normal normal 14px/21px Poppins;
+ letter-spacing: 0.28px;
+ color: #10284C;
+ opacity: 0.65;
+ width: 360px;
+ position: relative; 
+  
+ top:150px;
+
+}
+.h-size1{
+ text-align: left;
+font: normal normal normal 30px/38px Cormorant Infant Medium;
+letter-spacing: 0.8px;
+color: #10284C;
+opacity: 1;
+}
+
+.sl{
+display: inline-block;
+text-align: left;
+font: normal normal normal 14px/17px Cormorant Infant Medium;
+letter-spacing: 2.8px;
+color: #A5A9A7;
+text-transform: uppercase;
+opacity: 1;
+margin-top: 50px;
+}
+.sp{
+ padding: 8px;
+}
+.box-1{
+
+ position: relative;
+ left: 10px;
+ top:-110px;
+ 
+
+ 
+}
+.box1{
+ width: 179px;
+height: 290px;
+border: 1px solid #CCDBDC;
+display: inline-block;
+opacity: 1;
+position: relative;
+z-index: -1;
+left:80px;
+
+
+}
+.box-2{
+ position: relative;
+
+left: -60px;
+top:10px;
+z-index: -2;
+
+}
+.box2{
+ width: 179px;
+height: 290px;
+border: 1px solid #CCDBDC;
+
+opacity: 1;
+position: relative;
+left: 310px;
+top:-450px;
+z-index: -2;
+}
+
+.box-3{
+ position: relative;
+ left: -110px;
+ top:-75px;
+}
+
+
+.box3{
+ width: 179px;
+height: 208px;
+border: 1px solid #CCDBDC;
+
+opacity: 1;
+position: relative;
+left: 320px;
+top:400px;
+
+}
+
+/* This section is about us */
+/* .margin-1{
+margin-top: 20rem;
+} */
+.body-container1{
+  
+  
+  padding: 2% 4%; 
+  margin-bottom: 8rem;
+ 
+
+ } 
+.about1{
+  width: 280px;
+  text-align:justify;
+  
+ }
+.img-box1{
+  position: static;
+  margin-left:450px ;
+  margin-top:-100px ;
+
+}
+.text-box1{
+ position: relative;
+ width: 386px;
+ height: 149px;
+
+ text-align: left;
+ left: -5px;
+ top: -10px;
+ font: normal normal normal 14px/21px Poppins;
+ letter-spacing: 0.28px;
+ color: #10284C;
+ opacity: 0.65;
+}
+.left-box{
+ position: absolute;
+ left: 170px;
+ top: 255px;
+}
+.left-box1{
+ position: absolute;
+ left: 170px;
+ top: 353px;
+ 
+}
+
+.boxsize{
+ border: 1px solid#CCDBDC;
+opacity: 1;
+position: relative;
+}
+.box4{
+ width: 142px;
+height: 198px;
+
+top: 200px;
+left: -105px;
+
+
+}
+.box-4{
+ width: 326px;
+height: 20px;
+position: relative;
+left: 10px;
+top: 10px;
+
+
+}
+.box5{
+ width: 172px;
+ height: 198px;
+ left: 180px;
+ top: -230px;
+ z-index: -1;
+ 
+}
+.box-5{
+ width: 352px;
+ height: 244px;
+ position: relative;
+ left:-190px;
+ top:5px;
+ 
+
+
+}
+.box6{
+ width: 172px;
+ height: 198px;
+ left: 263px;
+ top:-80px;
+z-index: -2;
+
+}
+
+
+
+.box-6{
+ width: 265px;
+ height: 397px;
+ position: relative;
+left: -105px;
+top:-210px;
+
+ 
+}
+
+/* 
+This is Product Section */
+.text-box2{
+  position: relative;
+  margin-bottom: 25px;
+  top: 10px;
+  border: none;
+  left: 215px;
+  text-align: left;
+  font: normal normal normal 14px/21px Poppins;
+  letter-spacing: 0.28px;
+  color: #10284C;
+  opacity: 0.65;
+}
+ .img-size{
+  height: 250px;
+  width: 160px;
+  margin-top: 50px;
+}
+/* THis is Hover Effect  */
+.img-fluid:hover .img-text{
+  opacity: 0.4;
+  
+}
+.img-text{
+  text-align: left;
+font: normal normal normal 20px/24px Cormorant Infant SemiBold;
+letter-spacing: 2px;
+color: #FFFFFF;
+text-transform: uppercase;
+display: block;
+  width: 100%;
+  height: auto;
+
+}
+.img-textbox{
+  position: relative;
+  top: -150px;
+  left: 100px;
+  
+}
+.img-textbox1{
+  position: relative;
+  top: -150px;
+  left: 60px;
+  
+}
+.img-textbox2{
+  position: relative;
+  top: -150px;
+  left: 40px;
+  
+}
+/* This is Hover Effect */
+
+.custom-box{
+  
+  border: none;
+  text-align: center;
+font: normal normal normal 14px/21px Poppins;
+letter-spacing: 0.28px;
+color: #10284C;
+opacity: 0.65;
+display: inline-block;
+left: 550px;
+margin-top: 10px;
+}
+
+
+
+/* This section is feedback section */
+/* Style inputs with type="text", select elements and textareas */
+
+/* Add a background color and some padding around the form */
+.container-form {
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+opacity: 1;
+left: 120px;
+margin-top: 2rem;
+width: 420px;
+
+position: relative
+}
+.form-group{
+  margin-top: 1rem;
+}
+.text-box3{
+  position: relative;
+  border: none;
+  left: 190px;
+  margin-top: 5rem;
+
+}
+.h-size4{
+  text-align: left;
+  font: normal normal normal 30px/38px Cormorant Infant Medium;
+  
+  letter-spacing: 0.8px;
+  color: #10284C;
+  opacity: 0.6;
+top: -40px;
+left: -220px;
+position: relative;
+
+}
+
+.h-size5{
+  text-align: left;
+font: normal normal normal 14px/21px Poppins;
+letter-spacing: 0.28px;
+color: #10284C;
+
+opacity: 0.65;
+position: relative;
+top: -20px;
+text-size-adjust: auto;
+}
+.text-box5{
+  position: relative;
+  left: 210px;
+  top: 35px;
+
+  
+  
+  
+  
+}
+
+#footer{
+  padding: 4% 5%;
+  text-align: center;
+ 
+  height: 170px;
+  background-color: #10284C;
+}
+.social-icon{
+  color: #FFFFFF;
+  margin: 20px;
+}
+/* 
+Media Queries */
+
+  

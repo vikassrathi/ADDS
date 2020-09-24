@@ -1,0 +1,34 @@
+@media (max-width:900px){
+  body{
+    /* background-color: lawngreen; */
+    
+  
+  }
+  .navigation{
+    display: none;
+  }
+  .body-margin{
+    margin-left: 0px;
+  }
+ .container-form{
+   margin-top: 60px;
+ }
+ .text-box6{
+   left: 120px;
+  
+ }
+.container-form{
+  width: 300px;
+}
+}
+@media (min-width:900px){
+  .navigation1{
+    display: none;
+  }
+  body{
+    
+  
+  }
+ 
+  
+}
